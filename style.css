@@ -191,13 +191,3 @@ hr {
   padding-left: 30px;
   color: white;
 }
-
-.coluna-3{
-    column-count: 1;
-}
-.nossahistoria{
-    list-style: none;
-  padding: 0;
-  padding-left: 20px;
-  padding-bottom: 20px;
-}
